@@ -136,7 +136,8 @@ RegisterNumber: 212223240170
 
 ## upcounter
 
-![Alt text](image-4.png)
+![image](https://github.com/23008344/Exp-7-Synchornous-counters-/assets/145742655/d589021a-3331-4fbb-8f71-a13f740f65fe)
+
 
 ## downcounter
 
